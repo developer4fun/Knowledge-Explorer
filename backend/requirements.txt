@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+PyMuPDF
+nltk
+scikit-learn
+gTTS
